@@ -8,10 +8,11 @@ module.exports = {
       md: 18,
       lg: 20,
       xl: 24,
-      '2xl': 32
+      '2xl': 32,
     },
     colors: {
-      'black': '#000000',
+      black: '#000000',
+      white: '#FFFFFF',
       'gray-900': '#121214',
       'gray-800': '#202024',
       'gray-400': '#7c7c8a',
