@@ -19,7 +19,7 @@ export const CustomComponent: StoryObj<TextProps> = {
   args: {
     asChild: true,
     children: (
-      <p>Test</p>
+      <p>Text wih P tag</p>
     )
   },
   argTypes: {
