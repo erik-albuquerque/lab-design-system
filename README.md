@@ -73,6 +73,7 @@ The following tools were used in the construction of the project:
 - **[Tailwind](https://tailwindcss.com/)**
 - **[Radix UI](https://www.radix-ui.com/)**
 - **[Storybook](https://storybook.js.org/)**
+- **[Vite](https://vitejs.dev/)**
 
 > See more [package.json](package.json)
 
