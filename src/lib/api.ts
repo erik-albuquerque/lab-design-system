@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: process.env.BASE_URL || 'https://erik-albuquerque.github.io',
+  baseURL: 'https://erik-albuquerque.github.io' || 'http://localhost:6006',
 })
 
 export { api }
