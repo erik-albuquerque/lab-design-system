@@ -115,7 +115,7 @@ $ yarn storybook
 ```
 
 <h2 id="demo">🧪 Demo</h2>
-<a href="http://localhost:3000">
+<a href="https://lab-design-system-kataik.vercel.app/">
 <!-- Link externo ou local(.github). -->
   <img src=".github/img/vercel_button.png">  
 </a>
